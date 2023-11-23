@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MPL-2.0",
   "description": "SSEMR Reports Dashboard",
-  "browser": "dist/openmrs-esm-template-app.js",
+  "browser": "dist/ssemr-esm-reports-app.js",
   "main": "src/index.ts",
   "source": true,
   "scripts": {
