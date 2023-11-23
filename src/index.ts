@@ -26,7 +26,7 @@ export const root = getAsyncLifecycle(
   options
 );
 
-export const patientListLeftPanelLink = getSyncLifecycle(
+export const reportsLinkDashboardLeftPanel = getSyncLifecycle(
   createReportsDashboardLink(reportsMeta),
   options
 );
