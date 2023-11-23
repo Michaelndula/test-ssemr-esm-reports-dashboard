@@ -1,5 +1,5 @@
 export const reportsMeta = {
-    name: "reports",
-    title: "Reports",
-    slot: "reports-dashboard-slot",
+  name: "reports",
+  title: "Reports",
+  slot: "reports-dashboard-slot",
 };
