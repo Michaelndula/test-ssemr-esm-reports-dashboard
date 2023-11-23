@@ -6,19 +6,14 @@
   },
   "extensions": [
     {
-      "name": "Red box",
-      "component": "redBox",
-      "slot": "Boxes"
-    },
-    {
-      "name": "Blue box",
-      "component": "blueBox",
-      "slot": "Boxes"
-    },
-        {
-      "name": "Brand box",
-      "component": "blueBox",
-      "slot": "Boxes"
+      "component": "reportsLinkDashboardLeftPanel",
+      "name": "reports-left-panel-link",
+      "slot": "reports-dashboard-slot",
+      "meta": {
+        "name": "reports",
+        "title": "Reports",
+        "slot": "reports-dashboard-slot"
+      }
     }
   ],
   "pages": [
