@@ -1,6 +1,6 @@
 {
   "name": "@ssemr/esm-report-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MPL-2.0",
   "description": "An OpenMRS seed application for building microfrontends",
   "browser": "dist/openmrs-esm-template-app.js",
