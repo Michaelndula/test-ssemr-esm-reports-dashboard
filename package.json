@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@carbon/react": "^1.33.1",
+    "ajv-keywords": "latest",
     "lodash-es": "^4.17.21",
     "react-image-annotate": "^1.8.0"
   },
