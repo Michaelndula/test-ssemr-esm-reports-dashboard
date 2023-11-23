@@ -9,7 +9,7 @@ const ReportsDashboard: React.FC = () => {
       "https://ssemr.intellisoftkenya.com/openmrs/module/reporting/dashboard/index.form";
 
     navigate(redirectUrl);
-  }, []);
+  }, [navigate]);
 
   return null;
 };
