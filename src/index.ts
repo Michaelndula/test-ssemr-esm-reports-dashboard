@@ -7,7 +7,7 @@ import { configSchema } from "./config-schema";
 import { createReportsDashboardLink } from "./left-panel-link.component";
 import { reportsMeta } from "./reports-meta";
 
-const moduleName = "@ssemr/esm-report-app";
+const moduleName = "@ssemr/esm-reports-app";
 
 const options = {
   featureName: "reports-dashboard",
