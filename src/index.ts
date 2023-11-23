@@ -1,4 +1,8 @@
-import { getAsyncLifecycle, getSyncLifecycle, defineConfigSchema } from "@openmrs/esm-framework";
+import {
+  getAsyncLifecycle,
+  getSyncLifecycle,
+  defineConfigSchema,
+} from "@openmrs/esm-framework";
 import { configSchema } from "./config-schema";
 import { createReportsDashboardLink } from "./left-panel-link.component";
 import { reportsMeta } from "./reports-meta";
