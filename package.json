@@ -1,6 +1,6 @@
 {
   "name": "@ssemr/ssemr-reports-dashboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MPL-2.0",
   "description": "SSEMR Reports Dashboard",
   "browser": "dist/ssemr-esm-reports-app.js",
